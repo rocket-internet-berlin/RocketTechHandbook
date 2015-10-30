@@ -1,3 +1,52 @@
+---
+---
+
 body {
-  font-family: Helvetica;
+  font-family: monospace;
+  font-size: 120%;
+  margin: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+header {
+  width: 100%;
+  padding-bottom: 10px;
+
+  .wrapper {
+    width: 700px;
+    margin: 0 auto;
+
+    div {
+      float: left;
+    }
+
+    .title-container {
+      font-weight: bold;
+      font-size: 10px;
+    }
+  }
+}
+
+.page-content {
+  max-width: 100%;
+  min-width: 700px;
+  margin: 0 50px;
+
+  li p:first-child {
+    font-weight: bold;
+  }
+}
+
+footer {
+  width: 100%;
+  padding-top: 20px;
+
+  .wrapper {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
 }
