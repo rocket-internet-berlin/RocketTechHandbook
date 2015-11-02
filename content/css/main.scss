@@ -1,9 +1,10 @@
 ---
 ---
 
+$min-width: 700px;
+
 body {
   font-family: monospace;
-  font-size: 120%;
   margin: 20px;
 }
 
@@ -16,7 +17,7 @@ header {
   padding-bottom: 10px;
 
   .wrapper {
-    width: 700px;
+    width: $min-width;
     margin: 0 auto;
 
     div {
@@ -33,20 +34,34 @@ header {
 .page-content {
   max-width: 100%;
   min-width: 700px;
-  margin: 0 50px;
+  margin: 0 auto;
 
-  li p:first-child {
-    font-weight: bold;
+  ol {
+    margin: 0 40px;
+    li p:first-child {
+      font-weight: bold;
+    }
+
+    p, li {
+      line-height: 130%;
+    }
   }
 }
 
-footer {
-  width: 100%;
-  padding-top: 20px;
+.robot {
+  line-height: 100%;
+  font-size: 80%;
+  text-align: left;
+}
 
-  .wrapper {
-    width: 400px;
-    margin: 0 auto;
-    text-align: center;
-  }
+.last-robot {
+  margin: 0 auto;
+  width: 220px;
+}
+
+footer {
+  padding-top: 20px;
+  min-width: $min-width;
+  width: 100%;
+  text-align: center;
 }

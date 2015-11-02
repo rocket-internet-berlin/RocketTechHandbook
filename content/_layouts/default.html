@@ -10,6 +10,11 @@
 <div class="page-content">
     <div class="wrapper">
         {{ content }}
+
+    </div>
+    <div class="last-robot">
+        {% capture robot_message %}Tschussi!{% endcapture %}
+        {% include robot.html %}
     </div>
 </div>
 
