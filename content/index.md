@@ -33,7 +33,7 @@ permalink: /
 
     Rocket is ambitious and has high expectations of delivery and quality but we strive to foster a genuinely happy work environment. Maintaining such an environment is done by you & your colleagues but to help you along, here are some guidelines…
     
-    * Be nice. While we’ve done a bunch of research into destroying all emotion, we have been unsuccessful… So far. The failure of that research means we need to be calm when things go wrong (which will happen), say “hello” in the elevator and do a robot dance when somebody does a good job.
+    * Be nice. We’ve spent 28,64€ on research to try and rid ourselves of all emotion. This was a disaster and losing over 28€ made us really angry. To compensate for that failure, we try to stay calm when things go wrong (and they will), say “hello” to each other in the elevator and do a little robot dance to celebrate success.
     * Be curious. We may not fully understand how all decisions are made but we believe everybody is trying to do the right thing with the data they have. If you don’t understand something or disagree, you should feel comfortable asking.
     * Be trusting. Trusting the intent and competency of each other is cheaper than a process and more fun. The assumption of trust is a critical part of our hiring strategy and our success.
     * Be open to failure. When things don’t turn out as expected, celebrate it. We don’t make complex decisions in isolation so don’t expect to be blamed. Do expect to work out what we can learn and change to make ourselves better.
@@ -50,7 +50,7 @@ permalink: /
     * You will only ever be promoted, paid or given feedback based on your experience, the quality of your work and the impact you have had.
     * You will work in the mode that best suits you and your team. Teams at Rocket use their judgement to choose the tools and methodologies they believe will yield the most success.
     * You will have as few rules and processes imposed on you as possible. Some processes are globally a good idea but those that cater to the lowest common denominator can damage autonomy.
-    * You will never be asked to compromise on quality. Rocket has built enough companies to know that deliberately cutting quality is always painful in the long run.
+    * You will not be asked by your manager to compromise quality. Rocket has built enough companies to know that deliberately cutting quality is always painful in the long run.
     * You may not know the project you will be working on in a few months. Change is part of Rocket’s business model which can be unpredictable and often fun.
     * You will be allowed to take reasonable risks. Well considered risks are at the heart of Rocket’s success so you will be provided with the latitude to experiment with something new to achieve great results.
     * You will be provided with opportunities to learn and grow. Rocket provides various career paths and you want to learn new, relevant skills. We will try to provide the time and resources to help you develop in the direction that best suits you.
@@ -78,7 +78,7 @@ permalink: /
     
     In order to keep these biannual events feeling unexciting, discussions will be ongoing and multidirectional. If you’re doing a great job or can improve, you should expect to know about it when a pattern is detected and to help figure out what to do next. It is equally important that you let your team lead and colleagues know how they’re doing, too. Releasing information once a year based solely on your team lead’s observations seems ridiculous to us. If you leave a 6 month discussion in a state of utter shock or surprise, then we consider the feedback process to have failed.
     
-    If you lead a team, it is your duty to know how everybody on your team is performing and feeling; whether they’re motivated, unmotivated, struggling or kicking ass. You’ll be given guidance by your own manager in how you’re expected to achieve such levels of omniscience. Keep in mind not just the business impact of the individual, but also their impact on the people they work with.
+    If you lead a team, it is your duty to know how everybody on your team is performing and feeling; whether they’re motivated, unmotivated, struggling or kicking ass. You’ll be given guidance by your own manager in how you’re expected to achieve such levels of omniscience. Keep in mind not just the business impact of the individual, but also how they impact the people they work with.
 
 1. Social responsibility.
 
@@ -91,7 +91,7 @@ permalink: /
 
     For the sake of this, we’ll assume you work at Rocket HQ in Berlin where project teams and companies span multiple floors. A rough guide to a company’s maturity is how close it is to the front door of the building; closer to the door, more mature. Given that the location of project teams and companies is so fluid, here’s a more detailed and current guide to some useful locations of teams… 
 
-    * The 5th floor houses many Rocket project teams, the In-House Sys Admin team and the Lounge. If somebody says “meet in the Lounge”, you’ll find it right across from the main elevators on this floor. You will visit the In-House team to collect your equipment on your first day but, for future reference, they can also be emailed at inhouse@rocket-internet.de 
+    * The 5th floor houses many Rocket project teams, the In-House Sys Admin team and the Lounge. If somebody says “meet in the Lounge”, you’ll find it right across from the main elevators on this floor. You will visit the In-House team to collect your equipment on your first day but, for future reference, you can also email them.
     * The 4th floor contains project and company teams but also Reception (known as “Empfang” in German), Finance, Marketing, HR Management & Development and HR Finance. The two HR teams are particularly important early on as they will assist you with the paperwork you’ll need to receive pay and benefits.
     * The 2nd and 3rd floors are nothing to do with Rocket. Pretend they don’t exist.
     * The 1st floor contains many Rocket companies as well as HR Recruiting & Launch Management.
@@ -140,8 +140,11 @@ permalink: /
    
     Access to the following links is restricted to Rocket employees.
     
-    * <a href="https://drive.google.com/drive/u/0/folders/0B4K749Dg05vkNFJlRGtSZktLSFk" target="_blank">Rocket Tech Google Drive folder</a>.
     * <a href="https://docs.google.com/spreadsheets/d/1nJCbCPLCsneS6fxc_LjvVS9oxJGIx8AFPD-ZuTYyBQU" target="_blank">Chapter Directory</a>.
+    * <a href="https://password.rocket-internet.de/" target="_blank">Password tool</a>.
+    * <a href="https://login.replicon.com/" target="_blank">Replicon</a>.
+    * <a href="https://sites.google.com/a/rocket-internet.de/intranet/" target="_blank">Rocket Intranet</a>.
+    * <a href="https://drive.google.com/drive/u/0/folders/0B4K749Dg05vkNFJlRGtSZktLSFk" target="_blank">Rocket Tech Google Drive folder</a>.
     * <a href="https://wiki.jira.rocket-internet.de/" target="_blank">Rocket Wiki</a>.
    
 1. Glossary.
