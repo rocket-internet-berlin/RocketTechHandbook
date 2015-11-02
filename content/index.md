@@ -113,7 +113,7 @@ permalink: /
 
 1. Data responsibilities
 
-    {% capture robot_message %}Shh.{% endcapture %} 
+    {% capture robot_message %}Psst.{% endcapture %}
     {% include robot.html %}
 
     As a publicly listed company, we are obliged to avoid actual or apparent insider trading. This means not sharing any information you are exposed to for the purposes of buying or selling shares in Rocket or any Rocket companies. While intentionally sharing sensitive information is obviously unacceptable, you should also be aware not to do so unintentionally, too. Talking about imminent product launches to somebody from TechCrunch at a party is sub-optimal.
@@ -130,7 +130,7 @@ permalink: /
     
     One huge early success of Rocket was building CityDeal, a company that was sold to Groupon less than 6 month for a 10% stake in Groupon. In the early years Rocket also founded eDarling, Wimdu, Home24 and Zalando.
     
-    With Zalando we learned how e-commerce works. And it was only a logical step to apply these learnings to other markets like Brazil (Dafiti), Russia (Lamoda), India (Jabong) or South-East Asia (Zalora). Also we did not stop with fashion e-commerce, but went into general merchandize (Lazada, Linio, Jumia), home & living (Westwing), food (Shopwings, Bonativo) and other areas.
+    With Zalando we learned how e-commerce works. And it was only a logical step to apply these learnings to other markets like Brazil (Dafiti), Russia (Lamoda), India (Jabong) or South-East Asia (Zalora). We didn't stop with fashion e-commerce, we went into general merchandize (Lazada, Linio, Jumia), home & living (Westwing), food (Shopwings, Bonativo) and a lot of other areas.
     
     Over the years we have built a lot of different business models, from financial services (Lendico, Spotcap, Zencap, Payleven, Paymill) to marketplaces (Helpling, Foodpanda, Foodora, Kaymu, Lyke, Sparklist, Jovago), subscription services (Glossybox, HelloFresh), classifieds models (Lamudi, Carmudi, Vendomo, Everjobs) to mobile on-demand services (Easytaxi, Eatfirst, Zipjet).
     
