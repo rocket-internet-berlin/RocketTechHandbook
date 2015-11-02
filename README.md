@@ -1,4 +1,6 @@
-# Rocket Tech Employee Handbook
+# Rocket Tech Handbook
+
+The handbook for new Rocket engineers to help them get oriented in how Rocket works.
 
 ## See it live
 
