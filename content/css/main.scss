@@ -1,8 +1,6 @@
 ---
 ---
 
-$min-width: 700px;
-
 body {
   font-family: monospace;
   margin: 20px;
@@ -17,7 +15,7 @@ header {
   padding-bottom: 10px;
 
   .wrapper {
-    width: $min-width;
+    width: 700px;
     margin: 0 auto;
 
     div {
@@ -33,7 +31,6 @@ header {
 
 .page-content {
   max-width: 100%;
-  min-width: 700px;
   margin: 0 auto;
 
   ol {
@@ -61,7 +58,20 @@ header {
 
 footer {
   padding-top: 20px;
-  min-width: $min-width;
   width: 100%;
   text-align: center;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 736px) {
+  body {
+    margin: 0 10px 10px 0;
+  }
+  .title-container {
+    display: none;
+  }
+  .page-content {
+    ol {
+      margin: 0;
+    }
+  }
 }
