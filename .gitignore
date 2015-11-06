@@ -1,0 +1,17 @@
+.idea
+
+.DS_Store
+.DS_Store?
+
+tmp
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+_site/
+.sass-cache/
+.jekyll-metadata
