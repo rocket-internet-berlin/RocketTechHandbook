@@ -31,22 +31,18 @@ permalink: /
     such stories. Ha ha ha. However, now you work at Rocket you should know this is not at all ridiculous. Stop laughing
     immediately as it is inefficient.
 
-    Rocket builds new companies based on proven business models. This may sound easy but it is rather complex when you
-    take into account that these companies offer their services to people with limited access to a postal service,
-    credit cards and broadband. While this does increase the challenge, it also increases the fun.
+    Rocket builds internet companies. Our <a href="https://vimeo.com/106785682" target="_blank">advantage</a> 
+    is that we are able to move fast without compromising on quality. We achieve this by using our homegrown
+    mobile & web platforms that help many of our companies get started. These platforms provide useful tools and
+    services but they are also forked and modified to suit the particular needs of the company. After launch, Rocket
+    continues to support these companies with a variety of services such as partnering on recruitment, monitoring of
+    live systems and further engineering work to help scale.
 
     A large number of Rocket companies are created by a small group of people from our office in Berlin working in
     project teams. Over time, these project teams have learned from success and failure to help them understand how to
     build a company. Those companies then grow, develop a unique culture, hire their own team to replace the project
     team and design some fancy t-shirts. Like teenagers, they then move out of the house and into their own place on the
     road to true independence. 
-
-    Rocket has a <a href="https://vimeo.com/106785682" target="_blank">big advantage</a> when it comes to building
-    startups. We are able to move faster than others without compromising on quality by using our own common
-    mobile & web platforms that help many of our companies get started. These platforms provide useful tools and
-    services but they are also forked and modified to suit the particular needs of the company. After launch, Rocket
-    continues to support these companies with a variety of services such as partnering on recruitment, monitoring of
-    live systems and further engineering work to help scale.
 
     Rocket is fast and exciting, which often results in necessary change to keep pace with our business goals -- we
     consider this a feature, not a bug. It is possible you will work on a project that initially has few users at
@@ -65,11 +61,10 @@ permalink: /
 
     * Try to be available. We need close, cross-functional teams in order to work on difficult problems. This means
     working in the same place and where possible, at the same time.
+    * Learn from failure. When things don't turn out as expected, use it as an opportunity to make Rocket better by
+    sharing what you learn.
     * Be data-centric. Awesome and creative ideas are welcome and should be validated with qualitative or quantitative
     data. If our ideas aren't as awesome as we think, then we modify or move on. Pride never beats data.
-    * Learn from failure. When things don't turn out as expected, use it as an opportunity to help Rocket improve. We
-    don't make complex decisions in isolation so don't expect to be blamed. Do, however, share what we can learn and
-    change to make ourselves better.
     * Be a good neighbor. The people in the next pod might be working on a launch or trying to deal with an unexpected
     burst of traffic. Be aware of their situation and think about whether they need to hear you on the phone to your mum.
     * Assume trust. Trusting the intent and competency of one another is cheaper than a process and more fun.
@@ -87,7 +82,7 @@ permalink: /
     There are some things you can expect from Rocket, your manager and your colleagues:
 
     * You will only be evaluated on the quality and impact of your work.
-    * You will not be asked by your manager to compromise on quality. Having launched over 100 companies and counting,
+    * You will not be asked by your manager to compromise on quality. Having launched over 80 companies and counting,
     we know cutting quality is always painful in the long run.
     * Teams at Rocket use their judgement to employ the tools and methodologies they believe will yield the most success.
     You will work in the mode that best suits you and your team.
@@ -230,19 +225,21 @@ permalink: /
 
     My journey with Rocket officially started in 2012 when I joined as CTO. However, I first met the Samwer brothers
     back in 1999, when they talked to a group of students at my university about how they started Alando in Berlin and
-    sold it to eBay (read more). I was immediately fascinated by their energy and drive to be successful and
-    clearly they were not ready to sit on the beach after earning their first millions with Alando. Next came Jamba
-    (some Rocket employees like Arnt and Julian can tell you stories about it), famously known in Germany for buying
-    almost all free TV advertising slots available. I think it was a pretty amazing achievement to sell a company, whose
-    main product was ringtones, for a whopping $273m. When was the last time someone bought a ringtone?!
+    sold it to eBay (<a href="https://partners.nytimes.com/library/tech/99/09/biztech/technology/22mcgr.html" target="_blank">read more</a>).
+    I was immediately fascinated by their energy and drive to be successful and clearly they were not ready to sit on
+    the beach after earning their first millions with Alando. Next came Jamba (some Rocket employees like Arnt and
+    Julian can tell you stories about it), famously known in Germany for buying almost all free TV advertising slots
+    available. I think it was a pretty amazing achievement to sell a company, whose main product was ringtones, for a
+    whopping $273m. When was the last time someone bought a ringtone?!
 
     After selling Jamba, the Samwers moved into the role of investor for lots of different internet companies, some of
     them quite well known such as LinkedIn, Facebook, Zynga and MyVideo. But maybe just being an investor got a bit
     boring after a while... They wanted to be more hands-on again and build more than one company at a time and
     this is how Rocket Internet was born in 2007. 
 
-    One huge early success of Rocket was building CityDeal, a company that was sold to Groupon in less than six months
-    in return for a 10% stake in Groupon. In these years, Rocket also founded eDarling, Wimdu, Home24 and Zalando.
+    In the early years Rocket founded companies you might already have heard of like eDarling, Home24 and Zalando.
+    One big success was CityDeal, a company that was sold to Groupon less than six months after founding
+    in return for a 10% stake in Groupon.
 
     With Zalando, we learned how e-commerce worked and it was only a logical step to apply these lessons to other
     markets like Brazil (Dafiti), Russia (Lamoda), India (Jabong) or South-East Asia (Zalora). We didn't stop with
