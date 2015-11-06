@@ -4,7 +4,7 @@ The guide for new Rocket engineers to help them get oriented on some basics when
 
 ## See it live
 
-The current version of the handbook can be found [here](https://github.io/rocket-internet-berlin/RocketTechHandbook).
+The current version of the handbook can be found [here](https://rocket-internet-berlin.github.io/RocketTechHandbook).
 
 ## Development
 
