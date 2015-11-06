@@ -23,4 +23,7 @@ For editing content and styles...
    * `_layouts/` - The layout for the page.
    * `css/` - ... The CSS :)
 
+To deploy changes to the [live handbook](https://rocket-internet-berlin.github.io/RocketTechHandbook),
+make sure they are merged into the `gh-pages` branch.
+
 Enjoy!
