@@ -1,0 +1,3 @@
+destination: _site
+baseurl: /RocketTechHandbook
+exclude: [Gemfile, Gemfile.lock, README.md, setup.sh]
