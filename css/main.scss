@@ -3,7 +3,7 @@
 
 body {
   font-family: monospace;
-  margin: 20px;
+  margin: 15px;
   font-size: 120%;
 }
 
@@ -33,6 +33,10 @@ header {
 .page-content {
   max-width: 100%;
   margin: 0 auto;
+
+  .robot {
+    font-size: 50%;
+  }
 
   ol {
     margin: 0 40px;
@@ -64,10 +68,15 @@ footer {
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 736px) {
   body {
-    margin: 0 10px 10px 0;
+    margin: 0 10px 10px 0px;
+    font-size: 100%;
   }
-  .title-container {
-    display: none;
+  header {
+    .wrapper {
+      .title-container {
+        display: none;
+      }
+    }
   }
   .page-content {
     ol {
