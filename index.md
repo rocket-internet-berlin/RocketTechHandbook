@@ -184,8 +184,10 @@ permalink: /
     * The Atrium, situated in the middle of the building, used to be a swimming pool. It is now a kind of mini
     rainforest complete with it's very own unique climate and houses some Rocket companies around the edge.
 
-    *Note: Each floor has a map somewhere near the main elevators or inside the door. This is useful when trying to find
-    particular meeting rooms, for example. Don't forget that you can always ask someone if you're not sure!*
+    *Note: We have an <a href="https://inside.rocket-internet.de/content/office-map" target="_blank">office map</a> on
+    our intranet and each floor has a map somewhere near the main elevators or inside the door. This is useful when
+    trying to find particular meeting rooms, for example. Don't forget that you can always ask someone if you're not
+    sure!*
 
     Around the office you'll find lots of fruit, cereals, different types of drinks and kitchens. If you fancy something
     else, we are situated in the heart of Berlin so there are a lot of restaurants, bars and fast food. You should have
@@ -261,7 +263,7 @@ permalink: /
     
     * <a href="https://docs.google.com/spreadsheets/d/1nJCbCPLCsneS6fxc_LjvVS9oxJGIx8AFPD-ZuTYyBQU" target="_blank">Chapter Directory</a>.
     * <a href="https://drive.google.com/a/rocket-internet.de/file/d/0B9GoSEGMoDgLRW1EaW9vYnNGYUU/view" target="_blank">Guidelines on working for a public company</a>.
-    * <a href="https://sites.google.com/a/rocket-internet.de/intranet/" target="_blank">Our Intranet</a>.
+    * <a href="https://inside.rocket-internet.de/" target="_blank">Our Intranet</a>.
     * <a href="https://wiki.jira.rocket-internet.de/" target="_blank">Our Wiki</a>.
     * <a href="https://password.rocket-internet.de/" target="_blank">Password tool</a>.
     * <a href="https://login.replicon.com/" target="_blank">Replicon</a>.
