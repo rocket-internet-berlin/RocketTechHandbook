@@ -125,6 +125,10 @@ permalink: /
     idea. If he supports you then 20% of your time for up to three months will be scheduled in order to achieve the
     project goal.
 
+    There is a small Engineering library located on the bookshelf in the Lounge (5th floor) next to the Playstation. 
+    If you'd like to borrow a book, grab one and return it when you have finished. For book suggestions, make sure 
+    we don't already have a copy and then speak with your direct manager to add it to our collection.
+
     We only want engineers who really enjoy the science of leading & organizing teams to become managers at Rocket.
     Engineers who want a raise or a sense of career progression are traditionally pushed into a management role - we
     want to avoid this. We run engineering and management as parallel progressive career tracks so you can become a
@@ -172,8 +176,8 @@ permalink: /
     * The 5th floor houses many Rocket project teams, the In-House sys admin team and the Lounge. If somebody says
     "meet in the Lounge," you'll find it right across from the main elevators on this floor. You will visit the
     In-House team to collect your equipment on your first day but, for future reference, you can also email them.
-    * The 4th floor contains project and company teams but also Reception (known as "Empfang" in German), Finance,
-    Marketing, HR Management & Development and HR Finance. These two HR teams are particularly important early on as
+    * The 4th floor contains project and company teams but also Reception/Business Services (known as "Empfang" in German),
+    Finance, Marketing, HR Management & Development and HR Finance. These two HR teams are particularly important early on as
     they will assist you with the paperwork you'll need to receive pay and benefits.
     * The 2nd and 3rd floors have nothing to do with Rocket. Although we don't really know the people on these floors
     they do seem very nice.
@@ -247,8 +251,8 @@ permalink: /
     (Shopwings, Bonativo) and a lot of other areas.
 
     Over the years we have built a lot of different business models, from financial services (Lendico, Spotcap, Zencap,
-    Payleven, Paymill) to marketplaces (Helpling, Foodpanda, Foodora, Kaymu, Lyke, Sparklist, Jovago), subscription
-    services (Glossybox, HelloFresh) and classifieds models (Lamudi, Carmudi, Vendomo, Everjobs) to mobile on-demand
+    Payleven, Paymill) to marketplaces (Foodpanda, Foodora, Kaymu, Lyke, Sparklist, Jovago), subscription
+    services (Glossybox, HelloFresh, Helpling) and classifieds models (Lamudi, Carmudi, Everjobs) to mobile on-demand
     services (Easytaxi, Eatfirst, Zipjet).
 
     Our strategy going forward is to continue to explore new internet business models, launch new companies and build
