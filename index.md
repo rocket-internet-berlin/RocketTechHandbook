@@ -125,7 +125,7 @@ permalink: /
     idea. If he supports you then 20% of your time for up to three months will be scheduled in order to achieve the
     project goal.
 
-    There is a small Engineering library located on the bookshelf in the Lounge (5th floor) next to the Playstation. 
+    There is a small Engineering library located on the bookshelf in the Lounge (5th floor) next to the PlayStation. 
     If you'd like to borrow a book, grab one and return it when you have finished. For book suggestions, make sure 
     we don't already have a copy and then speak with your direct manager to add it to our collection.
 
