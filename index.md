@@ -125,6 +125,10 @@ permalink: /
     idea. If he supports you then 20% of your time for up to three months will be scheduled in order to achieve the
     project goal.
 
+    There is a small Engineering library located on the bookshelf in the Lounge (5th floor) next to the PlayStation. 
+    If you'd like to borrow a book, grab one and return it when you have finished. For book suggestions, make sure 
+    we don't already have a copy and then speak with your direct manager to add it to our collection.
+
     We only want engineers who really enjoy the science of leading & organizing teams to become managers at Rocket.
     Engineers who want a raise or a sense of career progression are traditionally pushed into a management role - we
     want to avoid this. We run engineering and management as parallel progressive career tracks so you can become a
@@ -172,8 +176,8 @@ permalink: /
     * The 5th floor houses many Rocket project teams, the In-House sys admin team and the Lounge. If somebody says
     "meet in the Lounge," you'll find it right across from the main elevators on this floor. You will visit the
     In-House team to collect your equipment on your first day but, for future reference, you can also email them.
-    * The 4th floor contains project and company teams but also Reception (known as "Empfang" in German), Finance,
-    Marketing, HR Management & Development and HR Finance. These two HR teams are particularly important early on as
+    * The 4th floor contains project and company teams but also Reception/Business Services (known as "Empfang" in German),
+    Finance, Marketing, HR Management & Development and HR Finance. These two HR teams are particularly important early on as
     they will assist you with the paperwork you'll need to receive pay and benefits.
     * The 2nd and 3rd floors have nothing to do with Rocket. Although we don't really know the people on these floors
     they do seem very nice.
@@ -184,8 +188,10 @@ permalink: /
     * The Atrium, situated in the middle of the building, used to be a swimming pool. It is now a kind of mini
     rainforest complete with it's very own unique climate and houses some Rocket companies around the edge.
 
-    *Note: Each floor has a map somewhere near the main elevators or inside the door. This is useful when trying to find
-    particular meeting rooms, for example. Don't forget that you can always ask someone if you're not sure!*
+    *Note: We have an <a href="https://inside.rocket-internet.de/content/office-map" target="_blank">office map</a> on
+    our intranet and each floor has a map somewhere near the main elevators or inside the door. This is useful when
+    trying to find particular meeting rooms, for example. Don't forget that you can always ask someone if you're not
+    sure!*
 
     Around the office you'll find lots of fruit, cereals, different types of drinks and kitchens. If you fancy something
     else, we are situated in the heart of Berlin so there are a lot of restaurants, bars and fast food. You should have
@@ -247,8 +253,8 @@ permalink: /
     (Shopwings, Bonativo) and a lot of other areas.
 
     Over the years we have built a lot of different business models, from financial services (Lendico, Spotcap, Zencap,
-    Payleven, Paymill) to marketplaces (Helpling, Foodpanda, Foodora, Kaymu, Lyke, Sparklist, Jovago), subscription
-    services (Glossybox, HelloFresh) and classifieds models (Lamudi, Carmudi, Vendomo, Everjobs) to mobile on-demand
+    Payleven, Paymill) to marketplaces (Foodpanda, Foodora, Kaymu, Lyke, Sparklist, Jovago), subscription
+    services (Glossybox, HelloFresh, Helpling) and classifieds models (Lamudi, Carmudi, Everjobs) to mobile on-demand
     services (Easytaxi, Eatfirst, Zipjet).
 
     Our strategy going forward is to continue to explore new internet business models, launch new companies and build
@@ -261,7 +267,7 @@ permalink: /
     
     * <a href="https://docs.google.com/spreadsheets/d/1nJCbCPLCsneS6fxc_LjvVS9oxJGIx8AFPD-ZuTYyBQU" target="_blank">Chapter Directory</a>.
     * <a href="https://drive.google.com/a/rocket-internet.de/file/d/0B9GoSEGMoDgLRW1EaW9vYnNGYUU/view" target="_blank">Guidelines on working for a public company</a>.
-    * <a href="https://sites.google.com/a/rocket-internet.de/intranet/" target="_blank">Our Intranet</a>.
+    * <a href="https://inside.rocket-internet.de/" target="_blank">Our Intranet</a>.
     * <a href="https://wiki.jira.rocket-internet.de/" target="_blank">Our Wiki</a>.
     * <a href="https://password.rocket-internet.de/" target="_blank">Password tool</a>.
     * <a href="https://login.replicon.com/" target="_blank">Replicon</a>.
