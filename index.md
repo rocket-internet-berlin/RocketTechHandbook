@@ -108,7 +108,7 @@ permalink: /
     like to do with your manager, discuss whether it's appropriate and affordable, and they'll help you get set up.
 
     To ensure the spread of knowledge across the many teams at Rocket, we have frequent Chapter meetings. A Chapter is a
-    group of people interested in a particular topic such as "Women in Tech," "Android" or "Code Quality." They're great
+    group of people interested in a particular topic such as "Diversity in Tech," "Android" or "Code Quality." They're great
     places to learn something new, make important decisions and meet people with whom you may not normally work. If
     you're interested in attending, check out the
     <a href="https://docs.google.com/spreadsheets/d/1nJCbCPLCsneS6fxc_LjvVS9oxJGIx8AFPD-ZuTYyBQU" target="_blank">Chapter Directory</a>.
@@ -121,9 +121,11 @@ permalink: /
     you do have a topic you'd like to present - be sure to get in touch with the organizer.
 
     Engineers can propose a project that will benefit Rocket or the wider community, such as a new tool or open source
-    project. If you have a worthwhile project with a clear goal in mind you can talk to Ronny to verify it's a good
-    idea. If he supports you then 20% of your time for up to three months will be scheduled in order to achieve the
-    project goal.
+    contribution. If you have a worthwhile project with a clear goal in mind you can talk to Ronny to verify it's a good
+    idea. If he supports you then 20% of your time for up to three months will be scheduled in order to achieve the goal.
+    If your project is open source, take a look at 
+    <a href="https://docs.google.com/document/d/1mBlEdSyorTD1taHtE6fTDBYHRQVjvohiVykYYDjr2DA/edit" target="_blank">this</a>
+    to help you get started and launched.
 
     There is a small Engineering library located on the bookshelf in the Lounge (5th floor) next to the PlayStation. 
     If you'd like to borrow a book, grab one and return it when you have finished. For book suggestions, make sure 
@@ -186,7 +188,8 @@ permalink: /
     (including Rocket Labs). It also contains a portal to the outside world which we jokingly refer to as the "door"
     because it is a door.
     * The Atrium, situated in the middle of the building, used to be a swimming pool. It is now a kind of mini
-    rainforest complete with it's very own unique climate and houses some Rocket companies around the edge.
+    rainforest complete with it's very own unique climate and houses some Rocket companies and a ping pong table.
+    Ping pong paddles and balls can be found in Reception/Business Services.
 
     *Note: We have an <a href="https://inside.rocket-internet.de/content/office-map" target="_blank">office map</a> on
     our intranet and each floor has a map somewhere near the main elevators or inside the door. This is useful when
@@ -249,12 +252,12 @@ permalink: /
 
     With Zalando, we learned how e-commerce worked and it was only a logical step to apply these lessons to other
     markets like Brazil (Dafiti), Russia (Lamoda), India (Jabong) or South-East Asia (Zalora). We didn't stop with
-    fashion e-commerce, we went into general merchandise (Lazada, Linio, Jumia), home & living (Westwing), food
-    (Shopwings, Bonativo) and a lot of other areas.
+    fashion e-commerce, we went into general merchandise (Lazada, Linio, Jumia), home & living (Westwing) and a lot of
+    other areas.
 
     Over the years we have built a lot of different business models, from financial services (Lendico, Spotcap, Zencap,
     Payleven, Paymill) to marketplaces (Foodpanda, Foodora, Kaymu, Lyke, Sparklist, Jovago), subscription
-    services (Glossybox, HelloFresh, Helpling) and classifieds models (Lamudi, Carmudi, Everjobs) to mobile on-demand
+    services (Glossybox, HelloFresh, Helpling) and classifieds models (Lamudi, Carmudi) to mobile on-demand
     services (Easytaxi, Eatfirst, Zipjet).
 
     Our strategy going forward is to continue to explore new internet business models, launch new companies and build
@@ -267,6 +270,7 @@ permalink: /
     
     * <a href="https://docs.google.com/spreadsheets/d/1nJCbCPLCsneS6fxc_LjvVS9oxJGIx8AFPD-ZuTYyBQU" target="_blank">Chapter Directory</a>.
     * <a href="https://drive.google.com/a/rocket-internet.de/file/d/0B9GoSEGMoDgLRW1EaW9vYnNGYUU/view" target="_blank">Guidelines on working for a public company</a>.
+    * <a href="https://docs.google.com/document/d/1mBlEdSyorTD1taHtE6fTDBYHRQVjvohiVykYYDjr2DA/edit" target="_blank">Open Source Guidelines</a>.
     * <a href="https://inside.rocket-internet.de/" target="_blank">Our Intranet</a>.
     * <a href="https://wiki.jira.rocket-internet.de/" target="_blank">Our Wiki</a>.
     * <a href="https://password.rocket-internet.de/" target="_blank">Password tool</a>.
@@ -309,3 +313,8 @@ permalink: /
 
     SkyRocket -- A newer PHP framework that many of our younger companies are now founded upon. Like Alice & Bob,
     SkyRocket is built at Rocket and provides a lot of important common functionality to help us launch quickly.
+
+    Steueridentifikationsnummer (also known as Steuer-ID or IDNr) -- The 11-digit number issued to you by the German Tax
+    authorities to administer taxes, etc. You will have this automatically sent to your mailing address within three
+    weeks of successfully registering at the Bürgeramt. This number will never change and is always needed by your
+    employer in order to have the correct tax calculated from your income.
