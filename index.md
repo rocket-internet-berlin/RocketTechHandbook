@@ -127,9 +127,9 @@ permalink: /
     <a href="https://docs.google.com/document/d/1mBlEdSyorTD1taHtE6fTDBYHRQVjvohiVykYYDjr2DA/edit" target="_blank">this</a>
     to help you get started and launched.
 
-    There is a small Engineering library located on the bookshelf in the Lounge (5th floor) next to the PlayStation. 
-    If you'd like to borrow a book, grab one and return it when you have finished. For book suggestions, make sure 
-    we don't already have a copy and then speak with your direct manager to add it to our collection.
+    We have a collection of engineering books lining the hallway near the Engineering team on the 5th floor.
+    If you'd like to borrow a book, grab one and return it when you have finished. For book suggestions,
+    make sure we don't already have a copy and then speak with your direct manager to add it to our library.
 
     We only want engineers who really enjoy the science of leading & organizing teams to become managers at Rocket.
     Engineers who want a raise or a sense of career progression are traditionally pushed into a management role - we
