@@ -103,6 +103,8 @@ permalink: /
     {% capture robot_message %}Ich möchte gerne viel lernen.{% endcapture %} 
     {% include robot.html %}
 
+    We try to keep engineers engaged with a variety of new projects, providing time to learn, share skills and mentor other engineers.  Engineers who want a raise or a sense of career progression are traditionally pushed into a management role – we want to avoid this as we feel only engineers who really enjoy the science of leading & organizing should pursue a managerial position.  Because of this, we run engineering and management as parallel progressive career tracks so you can become a Lead developing people or a principle Engineer guiding technical strategy, depending on your interests. 
+
     Although you will learn and improve as a necessity of your role, we want you to seek out new skills to help you
     grow. With that in mind, you may attend conferences and expense books and relevant courses. Propose what you would
     like to do with your manager, discuss whether it's appropriate and affordable, and they'll help you get set up.
@@ -127,15 +129,10 @@ permalink: /
     <a href="https://docs.google.com/document/d/1mBlEdSyorTD1taHtE6fTDBYHRQVjvohiVykYYDjr2DA/edit" target="_blank">this</a>
     to help you get started and launched.
 
-    We have a collection of engineering books lining the hallway near the Engineering team on the 5th floor.
-    If you'd like to borrow a book, grab one and return it when you have finished. For book suggestions,
+
+    For book suggestions,
     make sure we don't already have a copy and then speak with your direct manager to add it to our library.
 
-    We only want engineers who really enjoy the science of leading & organizing teams to become managers at Rocket.
-    Engineers who want a raise or a sense of career progression are traditionally pushed into a management role - we
-    want to avoid this. We run engineering and management as parallel progressive career tracks so you can become a
-    Lead developing people or a Principle Engineer guiding technical strategy. We try to keep engineers engaged
-    with a variety of new projects, providing time to learn, share skills and mentor other engineers.
 
 1. Giving & receiving feedback.
 
@@ -168,32 +165,26 @@ permalink: /
     {% capture robot_message %}Willkommen zuhause.{% endcapture %} 
     {% include robot.html %}
 
-    For the sake of this, we'll assume you work at Rocket HQ in Berlin where project teams and companies span multiple
+    For the sake of this, we'll assume you work at Rocket Tower in Berlin where project teams and companies span multiple
     floors. A rough guide to a company's maturity is how close it is to the front door of the building; closer to the
     door, more mature. 
 
     Given that the location of project teams and companies is so fluid, here's a more detailed and current guide to some
     useful locations:
 
-    * The 5th floor houses many Rocket project teams, the In-House sys admin team and the Lounge. If somebody says
-    "meet in the Lounge," you'll find it right across from the main elevators on this floor. You will visit the
-    In-House team to collect your equipment on your first day but, for future reference, you can also email them.
-    * The 4th floor contains project and company teams but also Reception/Business Services (known as "Empfang" in German),
-    Finance, Marketing, HR Management & Development and HR Finance. These two HR teams are particularly important early on as
-    they will assist you with the paperwork you'll need to receive pay and benefits.
-    * The 2nd and 3rd floors have nothing to do with Rocket. Although we don't really know the people on these floors
-    they do seem very nice.
-    * The 1st floor contains many Rocket companies as well as HR Recruiting and Launch Management.
-    * The Ground floor (also known as "EG" or "Erdgeschoss" in German) contains the lobby and you know, more companies
-    (including Rocket Labs). It also contains a portal to the outside world which we jokingly refer to as the "door"
-    because it is a door.
-    * The Atrium, situated in the middle of the building, used to be a swimming pool. It is now a kind of mini
-    rainforest complete with it's very own unique climate and houses some Rocket companies and a ping pong table.
-    Ping pong paddles and balls can be found in Reception/Business Services.
+
+    * The 7th floor contains the In-House sys admin team. You will visit the In-House team to collect your equipment 
+    on your first day but, for future reference, you can also email them.
+    * The 14th floor contains Reception/Business Services (known as "Empfang" in German),
+    HR Talent Acquisition, HR Management & Development and HR Finance/Payroll. HR M&D and Payroll are particularly 
+    important early on as they will assist you with the paperwork you'll need to receive pay and benefits.
+    * The Ground floor contains a portal to the 
+    outside world which we jokingly refer to as the "door" because it is a door.
+
 
     *Note: We have an <a href="https://inside.rocket-internet.de/content/office-map" target="_blank">office map</a> on
-    our intranet and each floor has a map somewhere near the main elevators or inside the door. This is useful when
-    trying to find particular meeting rooms, for example. Don't forget that you can always ask someone if you're not
+    our intranet and each floor has a map somewhere near the main elevators. This is useful when
+    trying to find particular meeting rooms, for example. Speaking of meeting rooms, the name may seem complicated but is easily decoded. An example of how a meeting room may be written is 13-T-III.  The first number refers to the floor, the second refers to the building - either Scheibe (the glass covered one) or Turm and the third refers to the specific meeting room.  Don't forget that you can always ask someone if you're not
     sure!*
 
     Around the office you'll find lots of fruit, cereals, different types of drinks and kitchens. If you fancy something
@@ -311,7 +302,7 @@ permalink: /
     correct term for this team is indeed "Rocket Labs," although people occasionally also refer to the team as
     "Seller Center."
 
-    SkyRocket -- A newer PHP framework that many of our younger companies are now founded upon. Like Alice & Bob,
+    SkyRocket -- A newer PHP platform that many of our younger companies are now founded upon. Like Alice & Bob,
     SkyRocket is built at Rocket and provides a lot of important common functionality to help us launch quickly.
 
     Steueridentifikationsnummer (also known as Steuer-ID or IDNr) -- The 11-digit number issued to you by the German Tax
